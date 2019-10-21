@@ -20,4 +20,11 @@
 ## Other resources
 
  * https://github.com/kevchentw/awesome-chinese-fonts
-
+ * Making Google Fonts Faster - https://medium.com/clio-calliope/making-google-fonts-faster-aadf3c02a36d
+ * some listicle about chinese fonts
+   - http://miirana.pixnet.net/blog/post/232610723
+   - https://kknews.cc/zh-tw/tech/82z5njn.html
+   - https://minwt.com/free/19564.html
+   - https://forum.gamer.com.tw/C.php?bsn=60076&snA=3906436
+   - https://pkstep.com/archives/42294
+   - https://magiclen.org/open-fonts/
